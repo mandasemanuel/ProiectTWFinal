@@ -1,0 +1,13 @@
+.wrapper {
+    padding: 0px;
+    display: flex;
+    margin: 0px;
+
+}
+
+.logout {
+    height: 25px;
+}
+.userDetails {
+    margin:20px
+}

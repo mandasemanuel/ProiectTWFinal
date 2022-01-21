@@ -1,0 +1,22 @@
+.friends {
+    margin: 20px;
+}
+.friendsFood {
+    margin: 20px;
+}
+
+.friendsPage {
+    display: flex;
+    margin: 30px;
+}
+
+.friendElement {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+.btnClaim {
+    margin-left: 10px;
+}
+

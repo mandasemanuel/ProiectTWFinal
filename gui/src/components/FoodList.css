@@ -1,0 +1,23 @@
+.foods {
+    margin-left: 30px;
+}
+
+.claimedFoods {
+    margin-left: 30px;
+}
+
+.foodItem {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+.foodPage {
+    display: flex;
+    margin: 30px;
+}
+
+.addFood-wrapper {
+    margin-left: 30px;
+}

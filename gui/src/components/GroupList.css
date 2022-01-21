@@ -1,0 +1,19 @@
+.group {
+    margin-left: 30px;
+}
+
+.groupPage {
+    display: flex;
+    margin: 30px;
+}
+
+.addUser-wrapper {
+    margin-left: 30px;
+}
+
+.groupElement {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+

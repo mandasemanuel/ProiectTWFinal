@@ -1,0 +1,14 @@
+.users {
+    margin: 20px;
+}
+
+.userPage {
+    display: flex;
+    margin: 30px;
+}
+
+.elementUser {
+    padding: 5px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
